@@ -1,7 +1,7 @@
 # Gladiator-Game
 An RPG, turn-based text gladiator game
 
-##Instructions
+## Instructions
 1. In the menus be sure to enter your inputs based on what is shown on screen
 
    *Note that you shouldn't use upper case letters.
